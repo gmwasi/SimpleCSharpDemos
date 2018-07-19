@@ -1,0 +1,2 @@
+# SimpleCSharpDemos
+Simple exercises
